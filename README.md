@@ -1,6 +1,6 @@
 # The Great Firewall of Santa Cruz
 
-NOTE: This program is adapted from a Computer Systems and C Programming assignment.\n
+NOTE: This program is adapted from a Computer Systems and C Programming assignment.\
 (Header files, parser.c, and speck.c provided by Professor.)
 
 This C program is a word filtering program that filters out
