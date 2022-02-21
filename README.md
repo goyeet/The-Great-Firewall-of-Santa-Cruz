@@ -1,4 +1,6 @@
-# Assignment 7 - The Great Firewall of Santa Cruz
+# The Great Firewall of Santa Cruz
+
+NOTE: This program is adapted from a Computer Systems and C Programming assignment.
 
 This C program is a word filtering program that filters out
 and reports bad words parsed from stdin.
@@ -42,8 +44,3 @@ Remove all files that are compiler generated with:
 ```
 make clean
 ```
-
-## Known Issues
-
-None
-
